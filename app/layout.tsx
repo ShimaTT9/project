@@ -4,7 +4,6 @@ import "./globals.css";
 import React, { Children } from "react";
 
 
-
 const sarabun = Sarabun({
   weight: '400',
   subsets:['thai']
